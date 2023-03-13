@@ -6,7 +6,7 @@ func main() {
 	//DUTTA FACHREZY
 
 	//variabel yang berisi kalimat apa saja
-	sentence := "digitalent kominfo"
+	sentence := "selamat malam"
 
 	//loop untuk menampilkan setiap karakter yang ada di variable sentence
 	for _, char := range sentence {
